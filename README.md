@@ -16,8 +16,8 @@ pkg install python
 <br><br>
 **ติดตั้งไฟล์ลง TERMUX**:<br>
 ```
-git clone https://github.com/EH4404/ehstore
-cd ehstore
+git clone https://github.com/Skycheat/Skycheat
+cd Skycheat
 ```
 <br><br>
 
